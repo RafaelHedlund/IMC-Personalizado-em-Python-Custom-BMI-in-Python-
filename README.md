@@ -20,7 +20,7 @@ Technologies
 How to contribute
  If you want to contribute to this project, feel free to fork this repository and submit a pull request with your proposed changes.
 
-===================================================================================================================================
+==================================================================
 
 Calculadora de Índice de Massa Corporal (IMC)
 Este projeto foi desenvolvido como parte de uma disciplina de Linguagem de Programação e tem como objetivo fornecer uma calculadora de IMC com a capacidade de escolher entre diferentes sistemas de unidades de medida, 
